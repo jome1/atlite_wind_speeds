@@ -7,3 +7,5 @@
 !input_data/ADM1_GADM.geojson
 !input_data/BALMOREL_model_regions_GADM.geojson
 !input_data/EG_adm0.geojson
+!envs
+!envs/requirements.yaml

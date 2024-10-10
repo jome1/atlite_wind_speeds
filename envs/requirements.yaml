@@ -1,0 +1,20 @@
+name: atlite_egypt
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - geopandas
+  - pandas
+  - matplotlib
+  - numpy
+  - pygadm
+  - jupyter
+  - ipython
+  - ipykernel
+  - atlite
+  - logging
+  - hvplot
+  - holoviews
+  - cartopy
+  - xarray
+
