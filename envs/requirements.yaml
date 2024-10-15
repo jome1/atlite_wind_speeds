@@ -1,4 +1,4 @@
-name: atlite_egypt
+name: atlite_wind_speeds
 channels:
   - conda-forge
   - defaults
