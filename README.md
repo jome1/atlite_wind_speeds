@@ -4,7 +4,7 @@ get Egypt cutout from Zenodo:
 ## 0. Setup
 __a) clone the repository:__
 
-`https://github.com/jome1/atlite_regions.git`
+`https://github.com/jome1/atlite_wind_speeds.git`
 
 After cloning, navigate to the top-level folder of the repo.
 
