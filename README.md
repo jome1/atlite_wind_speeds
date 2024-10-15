@@ -1,6 +1,4 @@
 
-get Egypt cutout from Zenodo: 
-
 ## 0. Setup
 __a) clone the repository:__
 
