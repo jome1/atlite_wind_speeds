@@ -2,7 +2,7 @@
 !.gitignore
 !README.md
 !create_cutout_country.ipynb
-!create_wind_maps_regions.ipynb
+!wind_data_regions.ipynb
 !input_data
 !input_data/ADM1_GADM.geojson
 !input_data/BALMOREL_model_regions_GADM.geojson
