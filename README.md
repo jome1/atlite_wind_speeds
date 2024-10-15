@@ -14,6 +14,6 @@ The Python package requirements are in the `requirements.yaml` file. You can ins
 
 Then activate this new environment using
 
-`conda activate atlite_egypt`
+`conda activate atlite_wind_speeds`
 
 
