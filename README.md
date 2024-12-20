@@ -8,6 +8,8 @@ After cloning, navigate to the top-level folder of the repo.
 
 __b) install python dependencies__
 
+⚠️ the python environment has not been tested yet ⚠️ (normal atlite environment should work)
+
 The Python package requirements are in the `requirements.yaml` file. You can install these requirements in a new environment using `conda`:
 
 `conda env create -f envs/requirements.yaml`
