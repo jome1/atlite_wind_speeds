@@ -18,4 +18,8 @@ Then activate this new environment using
 
 `conda activate atlite_wind_speeds`
 
+## 1. Info
+
+https://cds.climate.copernicus.eu/requests?tab=all
+
 
