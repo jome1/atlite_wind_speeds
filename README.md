@@ -1,3 +1,4 @@
+The notebook shows a workaround to aggregate wind-speeds instead of generation timeseries to custom regions with atlite.
 
 ## 0. Setup
 __a) clone the repository:__
